@@ -4,22 +4,33 @@
     margin-top: 20px;
 }
 
-i.fa-instagram{
-  color: blueviolet;
+body
+{
+    
+    background:url("img/urbano.jpg");
+    background-size: cover;
+    background-position: center;
+    color: #ffffff;
+}
+
+p
+{
+  font-size:18px;
+  font-family: 'Open Sans',sans-serif;
 }
 
 h2.hins{
-  color: #ffa805;
+  color: #dbcbec;
 }
 
 h2.hgit{
-  
+  color: #bfbfbf;
 }
 
 h2.hfac{
-  
+  color: #95aaea;
 }
 
 h2.hwha{
-  
+  color: #cbf1cf;
 }
